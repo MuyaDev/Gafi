@@ -1,0 +1,13 @@
+h1 {
+    color: brown;
+    text-align: center;
+    font-size: 400%
+}
+h2 {
+    color: red;
+    text-align:center;
+    font-size: 300%
+}
+img {
+    float: right;
+    border-width: medium;
